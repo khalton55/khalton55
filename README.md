@@ -76,8 +76,5 @@ Collaboration, Teamwork, Problem-Solving, Adaptability, Communication
 ### 🔗 Snoopers App
 A full-stack date creation platform built with modern web technologies.
 
-### 🔗 Python Query Engine
-Streamlined Python-based query processing for enhanced data analysis.
-
 ---
 
