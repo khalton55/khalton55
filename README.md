@@ -73,12 +73,11 @@ Collaboration, Teamwork, Problem-Solving, Adaptability, Communication
 
 ## 📂 Featured Repositories
 
-### 🔗 [Snoopers App](#)
+### 🔗 Snoopers App
 A full-stack date creation platform built with modern web technologies.
 
-### 🔗 [Python Query Engine](#)
+### 🔗 Python Query Engine
 Streamlined Python-based query processing for enhanced data analysis.
 
 ---
 
-🌟 **Let’s collaborate on innovative projects and explore new horizons in technology!**
